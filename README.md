@@ -27,11 +27,11 @@ Mes projets reflètent cette double identité : j'aime poser la théorie maths *
 ## Domaines de prédilection
 
 ```text
-Traitement du signal        ████████████████░░░░  FFT, filtrage, harmoniques
-Traitement d'image          ████████░░░░░░░░░░░░  OpenCV, synthèse, reconstruction
-Machine Learning            ███████████░░░░░░░░░  k-NN, MLP, sklearn, PyTorch
 Mathématiques appliquées    █████████████████░░░  Optim, algèbre numérique, proba
+Traitement du signal        ████████████████░░░░  FFT, filtrage, harmoniques
+Traitement d'image          ████████████░░░░░░░░  OpenCV, synthèse, reconstruction
 Électronique / Embarqué     ███████████░░░░░░░░░  Arduino, Keil µVision, VHDL
+Machine Learning            █████████░░░░░░░░░░░  k-NN, MLP, sklearn, PyTorch
 ```
 
 ---
