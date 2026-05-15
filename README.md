@@ -87,7 +87,7 @@ Mathématiques appliquées    ████████████████�
 
 ## Langues
 
-🇫🇷 Français · 🇲🇦 العربية · 🇬🇧 English (B2-C1) · 🇪🇸 Español (B2)
+🇫🇷 Français · 🇩🇿 العربية · 🇬🇧 English (B2-C1) · 🇪🇸 Español (B2)
 
 ---
 
