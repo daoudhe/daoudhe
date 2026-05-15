@@ -92,5 +92,6 @@ Machine Learning            █████████░░░░░░░░�
 ---
 
 <p align="center">
-  <sub>“Comprendre la machinerie avant d'appuyer sur le bouton autograd.”</sub>
+  <sub>“Les mathématiques sont trop importantes pour être laissées aux mathématiciens.”</sub><br>
+  <sub><em>— Norbert Wiener</em></sub>
 </p>
